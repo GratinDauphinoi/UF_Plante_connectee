@@ -6,7 +6,8 @@
 Vous êtes l’entreprise Connected Flowers qui souhaite développer un objet connecté permettant à une personne sans connaissance particulière en botanique de faire pousser des plantes chez soi ou en extérieur. Connected Flowers fournit une base de données, que l’utilisateur peut étendre, qui contient initialement les spécifications d’environ 30 plantes de la région. 
 
 Cette base de données doit comprendre : 
-*Le Nom de la plante 
+
+* Le Nom de la plante 
 * Une Catégorisation de la plante 
 * La Description 
 * Une ou plusieurs Photos 
@@ -38,7 +39,8 @@ Vous devez produire les éléments suivants :
 ## MODALITÉS D’ÉVALUATION
 Vous serez évalué sur l’ensemble des productions. L’évaluation prendra aussi la forme d’une présentation orale de synthèse d’environ 15 minutes accompagnée d’un support de présentation avec un jury composé d’une partie des intervenants des cours de l’UF ‘Développement logiciels’. Un temps de questions-réponses sera prévu à l’issue des 15 minutes d’une durée de 5 minutes.
 
-Plusieurs évaluations intermédiaires auront également lieu au cours de l’année
+Plusieurs évaluations intermédiaires auront également lieu au cours de l’année :
+
 * Les livrables
 * La présentation orale
 * Vous serez évalué sur la qualité des livrables. 
