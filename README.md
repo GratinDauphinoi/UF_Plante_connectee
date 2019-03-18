@@ -60,3 +60,6 @@ https://www.tela-botanica.org/bdtfx-nn-75134-synthese
 ## BESOINS MATÉRIELS ET LOGICIELS
 Matériel : Arduino, Capteurs & actionneurs, Raspberry PI 
 Logiciels : Éditeur de texte, IDE pour programmer en C/C++
+
+
+# INDICATIONS RELATIVES AU DÉPLOIEMENT :
